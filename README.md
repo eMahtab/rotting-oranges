@@ -129,5 +129,10 @@ class Solution {
 }
 ```
 
+# Notes :
+Note that using Stack in this case will result in an incorrect output.
+
+![Rotting Oranges - Queue Vs. Stack](Rotten-Orange-Queue-Vs-Stack.JPG?raw=true "Rotting Oranges")
+
 # References :
 https://www.youtube.com/watch?v=vzPobzjJYbw
